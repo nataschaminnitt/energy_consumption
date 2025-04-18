@@ -1,0 +1,8 @@
+# Ignore system files
+.DS_Store
+.ipynb_checkpoints/
+
+# Ignore specific folders
+results/
+data/
+submission/
